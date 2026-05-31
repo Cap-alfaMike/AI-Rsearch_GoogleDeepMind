@@ -1,6 +1,6 @@
 # Google DeepMind: AI Research Foundations — Study Repository
 
-This repository documents my learning journey through the **Google DeepMind: AI Research Foundations** learning path on **Google Skills Boost**, managed by **Google Cloud**.
+This repository documents my learning journey through the **Google DeepMind: AI Research Foundations** learning path on **Google Skills**, managed by **Google Cloud**.
 
 The curriculum focuses on the foundations behind modern language models, including small language models, text representation, neural network training, transformer architectures, fine-tuning, and model acceleration.
 
